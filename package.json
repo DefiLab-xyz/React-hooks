@@ -1,0 +1,30 @@
+{
+  "name": "uniswap-pool-data-react-hook",
+  "version": "1.0.0",
+  "description": "React Hook to retrieve Uniswap Pool Data from the Graph",
+  "main": "UniswapPoolData.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefiLab-xyz/React-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "uniswap",
+    "defi",
+    "data"
+  ],
+  "author": "staceb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DefiLab-xyz/React-hooks/issues"
+  },
+  "homepage": "https://github.com/DefiLab-xyz/React-hooks#readme",
+  "dependencies": {
+    "@types/react": "^18.2.15",
+    "react": "^18.2.0"
+  }
+}
