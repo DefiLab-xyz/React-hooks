@@ -1,5 +1,3 @@
-Sure! Here's a sample README for your custom React hook `useUniswapPoolData`:
-
 # useUniswapPoolData
 
 `useUniswapPoolData` is a custom React hook that provides functionality to fetch and process data related to Uniswap pools. It handles fetching pool data by ID and protocol, and returns loading status, error information, and processed pool data.
