@@ -6,7 +6,7 @@ Each hook is designed to provide specific functionality and can be used independ
 
 ## Hooks
 
-- [UniswapPoolData](./hooks/UniswapPoolData/README.md): A hook for fetching and processing data related to Uniswap pools. Use this hook to retrieve pool data. For detailed usage instructions, refer to the hook's documentation.
+- [UniswapPoolData](./UniswapPoolData/README.md): A hook for fetching and processing data related to Uniswap pools. Use this hook to retrieve pool data. For detailed usage instructions, refer to the hook's documentation.
 
 ## Contributing
 
